@@ -1,0 +1,2 @@
+select Movie_name from Cinema
+where Rating>7.0 AND Rating<9.0
